@@ -1,0 +1,26 @@
+RECANTO DAS ÁGUIAS — SITE DE DEMONSTRAÇÃO
+
+Abra index.html no navegador. Para hospedar em um servidor, envie index.html e a pasta assets mantendo os nomes e caminhos. Não é necessário instalar dependências.
+
+CONTEÚDO
+Página responsiva com abertura em tela cheia, apresentação da hospedagem, acomodações, lazer, café da manhã, galeria com 12 fotos reais, Instagram, mapa e WhatsApp. Galeria ampliada com botões Anterior/Próxima, navegação pelas setas do teclado e fechamento por Escape.
+
+CONSULTA DE HOSPEDAGEM
+O formulário recebe check-in, check-out e quantidade de hóspedes. Valida as datas usando o fuso de Fortaleza, calcula as noites e prepara uma mensagem para (85) 98548-7939. O visitante precisa enviar a mensagem no WhatsApp. A equipe confirma capacidade, disponibilidade, valores e horários. A seleção de tamanho de grupo não representa capacidade confirmada da propriedade.
+
+EDIÇÃO
+index.html: textos, links, endereço e estrutura.
+assets/styles.css: cores, tipografia, layout e responsividade.
+assets/script.js: menu, galeria, validação de datas e telefone da consulta.
+assets/img: 12 fotos WebP e símbolo oficial do WhatsApp.
+Ao alterar o telefone, atualize também os links no HTML e o número no JavaScript.
+
+NESTA ETAPA
+Esta é a demonstração do site de apresentação. Não inclui CRM, painel administrativo, pagamento, controle de estoque de quartos ou confirmação automática de reserva. Esses recursos podem compor uma etapa posterior.
+
+INFORMAÇÕES
+Café da manhã incluso conforme informação fornecida pelo usuário em 28/09/2026. A pesquisa encontrou divergências sobre capacidade, número de quartos, horários e café nas plataformas. Não anunciamos exclusividade da casa ou piscina, quantidade fixa de quartos, classificação por estrelas ou preços.
+A identidade de marca é tipográfica, criada para esta proposta.
+As fotos são reais, extraídas do anúncio Airbnb 34288587, e os créditos estão em fontes-e-fotos.json. Apenas redimensionamento e conversão para WebP foram aplicados.
+O mapa e as fontes do Google precisam de conexão. O site utiliza fontes do sistema como alternativa e oferece link para abrir o Google Maps.
+O HTML contém noindex,nofollow por ser demonstração. Revise esse campo ao transformar a proposta no site definitivo.

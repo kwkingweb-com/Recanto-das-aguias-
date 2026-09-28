@@ -1,0 +1,151 @@
+{
+  "property": "Hotel Fazenda / Hospedagem Rural Recanto das Águias — Aquiraz, CE",
+  "review_date": "2026-09-28",
+  "website_type": "Demonstração estática em HTML, CSS e JavaScript",
+  "content_sources": [
+    {
+      "url": "https://www.airbnb.com/rooms/34288587",
+      "details": "Oferta de quarto privativo, piscina e cozinha compartilhadas, Wi-Fi, estacionamento e frigobar; fonte de todas as fotos."
+    },
+    {
+      "url": "https://www.google.com.br/travel/hotels/entity/ChkIpY7-maTY89JuGg0vZy8xMWc4Ynd0MXp0EAE",
+      "details": "Nome, endereço e telefone comercial."
+    },
+    {
+      "url": "https://www.instagram.com/hotelfazendarecantodasaguias/",
+      "details": "Perfil fornecido pelo usuário; usado como link de contato."
+    }
+  ],
+  "user_confirmed": [
+    "Café da manhã incluído na hospedagem."
+  ],
+  "pending": [
+    "Locação exclusiva da propriedade não confirmada; não anunciada.",
+    "Número de quartos, capacidade total, categorias e horários têm divergências; não publicados como dados fixos.",
+    "Preços e disponibilidade tratados pelo atendimento; não há confirmação automática de reserva."
+  ],
+  "brand": "Identificação tipográfica criada para esta demonstração; não representa reprodução de logotipo oficial.",
+  "whatsapp_icon_source": "https://www.meta.com/pt-br/brand/resources/whatsapp/whatsapp-brand/",
+  "photos": [
+    {
+      "filename": "hero-recanto.webp",
+      "original_url": "https://a0.muscache.com/im/pictures/0953f7ad-a1ff-442e-b5be-8481fe9daef4.jpg?im_w=1920",
+      "source_page": "https://www.airbnb.com/rooms/34288587",
+      "alt_pt": "Piscina ao ar livre cercada por coqueiros e áreas de convivência do Recanto das Águias.",
+      "width": 1920,
+      "height": 933,
+      "category": "hero",
+      "bytes": 427418
+    },
+    {
+      "filename": "recanto-jardim.webp",
+      "original_url": "https://a0.muscache.com/im/pictures/7de74352-4591-4b1c-b177-87e04f9fccc0.jpg",
+      "source_page": "https://www.airbnb.com/rooms/34288587",
+      "alt_pt": "Jardim arborizado com gramado, coqueiros e área rural do Recanto das Águias.",
+      "width": 1200,
+      "height": 583,
+      "category": "jardim",
+      "bytes": 304322
+    },
+    {
+      "filename": "recanto-suite.webp",
+      "original_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-34288587/original/243f1a10-e37c-4234-ba30-20d1034ba286.jpeg",
+      "source_page": "https://www.airbnb.com/rooms/34288587",
+      "alt_pt": "Interior de uma suíte do Recanto das Águias, com camas e cortinas claras.",
+      "width": 1200,
+      "height": 675,
+      "category": "suite",
+      "bytes": 46934
+    },
+    {
+      "filename": "galeria-01.webp",
+      "original_url": "https://a0.muscache.com/im/pictures/bfb3a81c-e7f7-483f-9d75-410f8c5d8703.jpg",
+      "source_page": "https://www.airbnb.com/rooms/34288587",
+      "alt_pt": "Piscina e pátio de pedra ao lado dos jardins do Recanto das Águias.",
+      "width": 1200,
+      "height": 900,
+      "category": "piscina",
+      "bytes": 204566
+    },
+    {
+      "filename": "galeria-02.webp",
+      "original_url": "https://a0.muscache.com/im/pictures/5b28c03b-ad58-4185-9ee1-aaefc9b6ed51.jpg",
+      "source_page": "https://www.airbnb.com/rooms/34288587",
+      "alt_pt": "Varanda das acomodações com redes voltadas para o jardim.",
+      "width": 1200,
+      "height": 900,
+      "category": "varanda",
+      "bytes": 353460
+    },
+    {
+      "filename": "galeria-03.webp",
+      "original_url": "https://a0.muscache.com/im/pictures/822e06b9-9c2c-4569-ab15-46f91c85bcc8.jpg",
+      "source_page": "https://www.airbnb.com/rooms/34288587",
+      "alt_pt": "Área coberta de convivência com poltronas e vista para o gramado.",
+      "width": 1200,
+      "height": 900,
+      "category": "convivencia",
+      "bytes": 214670
+    },
+    {
+      "filename": "galeria-04.webp",
+      "original_url": "https://a0.muscache.com/im/pictures/33b6a8b9-804c-4562-9ca6-c942b9e4d629.jpg",
+      "source_page": "https://www.airbnb.com/rooms/34288587",
+      "alt_pt": "Plantas suspensas e flores no jardim arborizado da propriedade.",
+      "width": 1200,
+      "height": 1200,
+      "category": "natureza",
+      "bytes": 607910
+    },
+    {
+      "filename": "galeria-05.webp",
+      "original_url": "https://a0.muscache.com/im/pictures/6d5e31cd-16b3-41d5-bafb-0e1f609a3a32.jpg",
+      "source_page": "https://www.airbnb.com/rooms/34288587",
+      "alt_pt": "Jabutis na área rural do Recanto das Águias.",
+      "width": 1200,
+      "height": 583,
+      "category": "natureza",
+      "bytes": 191802
+    },
+    {
+      "filename": "galeria-06.webp",
+      "original_url": "https://a0.muscache.com/im/pictures/5ceafebf-34e4-481a-8eee-09fbc9cfba98.jpg",
+      "source_page": "https://www.airbnb.com/rooms/34288587",
+      "alt_pt": "Cama de casal com toalha dobrada em uma suíte do Recanto das Águias.",
+      "width": 1200,
+      "height": 583,
+      "category": "suite",
+      "bytes": 36014
+    },
+    {
+      "filename": "galeria-07.webp",
+      "original_url": "https://a0.muscache.com/im/pictures/86e2315d-6f7e-4b59-b793-59d8b221d5cc.jpg",
+      "source_page": "https://www.airbnb.com/rooms/34288587",
+      "alt_pt": "Rede na varanda coberta com vista para a piscina.",
+      "width": 1200,
+      "height": 1200,
+      "category": "descanso",
+      "bytes": 236108
+    },
+    {
+      "filename": "galeria-08.webp",
+      "original_url": "https://a0.muscache.com/im/pictures/a326a7f6-bc30-40f5-9c6f-f2b9100fdf86.jpg",
+      "source_page": "https://www.airbnb.com/rooms/34288587",
+      "alt_pt": "Cachorro branco na área externa arborizada da propriedade.",
+      "width": 1200,
+      "height": 800,
+      "category": "natureza",
+      "bytes": 74862
+    },
+    {
+      "filename": "galeria-09.webp",
+      "original_url": "https://a0.muscache.com/im/pictures/f30471c2-ee54-4338-824c-4909f31257e8.jpg",
+      "source_page": "https://www.airbnb.com/rooms/34288587",
+      "alt_pt": "Vista das acomodações e caminhos de pedra entre as árvores.",
+      "width": 1200,
+      "height": 900,
+      "category": "ambientes",
+      "bytes": 332038
+    }
+  ]
+}
